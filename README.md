@@ -2,7 +2,7 @@
 - 👀 I’m interested in all kinds of technology from VR to things like web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to learn a lot and maybe contribute to some open source projects
-- 📫 How to reach me: matiasraappana.fi
+- 📫 How to reach me: www.matiasraappana.fi
 
 <!---
 MasaCodes/MasaCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
